@@ -97,5 +97,8 @@
         "psr-4": {
             "GuzzleHttp\\Tests\\": "tests/"
         }
+    },
+    "replace": {
+        "guzzlehttp/guzzle": "^6.5"
     }
 }
